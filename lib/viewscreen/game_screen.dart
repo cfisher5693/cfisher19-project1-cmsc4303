@@ -16,12 +16,6 @@ class _GameScreenState extends State<GameScreen> {
   late _Controller con;
   var formKey = GlobalKey<FormState>();
   late BBGame gameModel;
-  final Map<int, Widget> images = {
-    1: Image.asset('images/blue_circle.png'),
-    2: Image.asset('images/blue_orb.png'),
-    3: Image.asset('images/red_circle.png'),
-    4: Image.asset('images/red_orb.png'),
-  };
   @override
   void initState() {
     super.initState();

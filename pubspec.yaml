@@ -58,11 +58,11 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - images/blue_circle.png
-    - images/blue_orb.png
-    - images/red_circle.png
-    - images/red_orb.png
+  # assets:
+  #   - images/blue_circle.png
+  #   - images/blue_orb.png
+  #   - images/red_circle.png
+  #   - images/red_orb.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
